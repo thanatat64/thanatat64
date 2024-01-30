@@ -31,8 +31,7 @@ A passionate in Software Engineer. I'm currently studying at KMITL
 </p>
                     
 ### Socials   
-<p align="left">
-                      <a href="https://www.facebook.com/dee.dee.kub/" target="_blank" rel="noreferrer">
+<p align="left"><a href="https://www.facebook.com/dee.dee.kub/" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
@@ -59,5 +58,10 @@ A passionate in Software Engineer. I'm currently studying at KMITL
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/thanatat64"><img src="https://github-readme-stats.vercel.app/api?username=thanatat64&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=444e59&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="thanatat64's GitHub stats" /></a><a href="https://github.com/thanatat64" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanatat64&langs_count=10&title_color=f97316&text_color=444e59&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/thanatat64"><img src="https://github-readme-stats.vercel.app/api?username=thanatat64&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=444e59&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="thanatat64's GitHub stats" /></a>
+<a href="https://github.com/thanatat64" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanatat64&langs_count=10&title_color=f97316&text_color=444e59&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
