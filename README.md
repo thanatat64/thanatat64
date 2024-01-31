@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thanatat Chongkittisakul
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi My name is Thanatat Chongkittisakul
 ================================================================================================================================================
 ![start](https://github.com/thanatat64/thanatat64/assets/88770587/a5b86364-d146-4768-a94c-e378838d18f1)  
 
