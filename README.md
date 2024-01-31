@@ -24,6 +24,7 @@ A passionate in Software Engineer. I'm currently studying at KMITL
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [thanatat64.dev@gmail.com](mailto:thanatat64.dev@gmail.com)
 *   🧠  I'm learning Nestjs , React-Native, Flutter, Golang
+*   ⏳  Now I'm interest about Mobile application development and try learning to be a Mobile Developer
   
 ### Skills
 
