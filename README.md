@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![start](https://github.com/thanatat64/thanatat64/assets/88770587/a5b86364-d146-4768-a94c-e378838d18f1)  
 
 
-A passionate in Software Engineer. I'm currently studying at KMITL
+A passionate in Software Engineer. I'm currently studying at King Mongkut's Institute of Technology Ladkrabang.
 
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [thanatat64.dev@gmail.com](mailto:thanatat64.dev@gmail.com)
